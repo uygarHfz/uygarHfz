@@ -24,9 +24,3 @@ This project is a comprehensive social network application engineered with a dec
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uygarHfz&show_icons=true&theme=radical" height="165" alt="Uygar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uygarHfz&layout=compact&theme=radical" height="165" alt="Top Languages" />
-</p>
