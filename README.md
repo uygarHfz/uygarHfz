@@ -16,11 +16,5 @@ This project is a comprehensive social network application engineered with a dec
 
 ---
 
-## 🛠️ Technical Skills & Tools
 
-* **Languages:** Java, Python, SQL, JavaScript/TypeScript
-* **Frameworks & Libraries:** Spring Boot, React, Machine Learning & AI Libraries
-* **Databases & Systems:** PostgreSQL, Git, Linux / Bash, OOP, Data Structures & Algorithms
-
----
 
